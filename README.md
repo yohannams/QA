@@ -1,1 +1,1 @@
-# QA Sanbercode bootcamp bacth 45
+# QA Sanbercode bootcamp batch 45 - Selenium
